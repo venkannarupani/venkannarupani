@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkannarupani
-- 👀 I’m interested in ...Data Science (DS), Artificial Intelligence (AI) & their applications.
-- 🌱 I’m currently learning ...AI
-- 💞️ I’m looking to collaborate on ...DS & AI projects and training.
+- 👀 We provide AI and Data Solutions with our 4A-Framework (AI, AI Agents, Automation & Analytics) for Digital and Business Transformation of Enterprises.
+- 🌱 I’m currently applying AI Agents.
+- 💞️ I’m looking to collaborate on ...DS & AI Projects and training.
 - 📫 How to reach me ...
 
 <!---
